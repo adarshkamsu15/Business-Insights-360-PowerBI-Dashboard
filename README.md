@@ -80,13 +80,5 @@ A snowflake schema model with one central fact table and related dimension table
 
 ---
 
-## 🙏 Credits
-
-Special thanks to:
-- Dhaval Patel  
-- Hemanand Vadivel  
-- Codebasics Team
-
----
 
 > **Note**: This is a portfolio project based on publicly available bootcamp data and does not represent real business data.
