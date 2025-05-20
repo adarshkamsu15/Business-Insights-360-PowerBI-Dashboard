@@ -2,13 +2,24 @@
 
 A professional Power BI dashboard project designed for **AtliQ Hardware**, a leading consumer electronics brand, to gain deep insights into their sales, financial performance, customer trends, and operational risks.
 
-- [🔗 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODRjOGQxMjktMWQwYS00YWU5LTg2YmMtMDE5MmJhM2RlZjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- [🔗 LinkedIN Post](https://www.linkedin.com/posts/adarshkamsu_powerbi-dataanalytics-codebasics-activity-7330057118475087872-h0ba?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1od7oBPKMAdzDLLrt949XM5yBgYs7mgig)
+-  [🔗 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODRjOGQxMjktMWQwYS00YWU5LTg2YmMtMDE5MmJhM2RlZjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+ -  [🔗 LinkedIN Post](https://www.linkedin.com/posts/adarshkamsu_powerbi-dataanalytics-codebasics-activity-7330057118475087872-h0ba?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE1od7oBPKMAdzDLLrt949XM5yBgYs7mgig)
+
 ---
 
 ## 🔍 Objective
 
 To help business stakeholders make strategic decisions by analyzing key metrics like Net Sales, Gross Margin %, Net Profit %, and Forecast Accuracy using Power BI.
+
+---
+
+## Project Highlights
+
+- **Data Integration:** Connected MySQL database with Power BI.
+- **Data Preparation:** Validated and transformed data for accuracy.
+- **Enhanced Analytics:** Created calculated columns for deeper insights.
+- **Data Modeling:** Developed robust data models for analysis.
+- **Dynamic Dashboards:** Designed comprehensive and interactive dashboards.
 
 ---
 
@@ -21,14 +32,16 @@ To help business stakeholders make strategic decisions by analyzing key metrics 
 
 ---
 
-## 📌 Features
+## Dashboard Views
+**💶 Finance View:** Financial performance and metrics.
 
-- 💹 KPIs with conditional formatting  
-- 🗺️ Insights by sub-zone, customer, and product  
-- 📈 Trends over time (YoY, QoQ, YTD)  
-- 📊 Sales channel & division performance  
-- ⚠️ Risk status (Out of Stock / Excess Inventory)  
-- 🧠 Drill-through and tooltip interactions
+**📉 Sales View:** Sales data and trends.
+
+**🌍 Marketing View:** Marketing campaign analysis.
+
+**🚛 Supply Chain View:** Supply chain efficiency and metrics.
+
+**🤵 Executive View:** High-level executive summary.
 
 ---
 
@@ -75,12 +88,9 @@ A snowflake schema model with one central fact table and related dimension table
 
 ---
 
-## 🔗 Resources
-
-- [🔗 Live Dashboard on Power BI](https://lnkd.in/gfZEJNMa)  
-- [🎧 Walkthrough on LinkedIn](https://lnkd.in/gZKGzknJ)
-
----
+## Repository Contents
+This repository contains all the resources and documentation related to the Business Insights 360 project
+Explore the repository to see how we transformed data into actionable insights for AtliQ Hardware.
 
 
 > **Note**: This is a portfolio project based on publicly available bootcamp data and does not represent real business data.
