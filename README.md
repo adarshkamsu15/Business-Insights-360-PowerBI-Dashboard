@@ -3,7 +3,7 @@
 A professional Power BI dashboard project designed for **AtliQ Hardware**, a leading consumer electronics brand, to gain deep insights into their sales, financial performance, customer trends, and operational risks.
 
 - [🔗 Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiODRjOGQxMjktMWQwYS00YWU5LTg2YmMtMDE5MmJhM2RlZjVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-  
+- [🔗 Live Dashboard Link](www.linkedin.com/in/adarshkamsu)
 ---
 
 ## 🔍 Objective
